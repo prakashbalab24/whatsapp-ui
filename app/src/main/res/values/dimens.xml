@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chat_dp">60dp</dimen>
+    <dimen name="card_dp_elevation">12dp</dimen>
+    <dimen name="cornor_radius_dp_card">30dp</dimen>
+    <dimen name="normal_margin">12dp</dimen>
+    <dimen name="contact_tv_size">16sp</dimen>
+    <dimen name="contact_msg_tv_size">14sp</dimen>
+</resources>
